@@ -1,1 +1,14 @@
 
+Number is power of 2
+
+Int main()
+{ 
+Int n
+Printf("enter n number); 
+Scanf("%d",&n);
+Int pow=n&n-1 ;
+If (pow==0)
+Printf("power of 2");
+Else 
+Printf("n is not power of 2)
+End
