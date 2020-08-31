@@ -1,0 +1,9 @@
+Int main()
+{
+Int n
+a=n&1<<3
+If a is true 
+Bit is set
+Else
+Bit is not set
+End 
